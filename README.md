@@ -20,6 +20,3 @@ Talk to me about
 ## 📫 Contact Me
 - Twitter - [@yopafabrice](https://twitter.com/yopafabrice)
 - LinkedIn - [Fabrice YOPA](https://www.linkedin.com/in/fabriceyopa/)
-
----
-⭐️ From [fabriceyopa](https://github.com/fabriceyopa)
