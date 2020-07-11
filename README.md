@@ -6,7 +6,9 @@ I love technology and best practices. Github is my favourite place, it keeps me 
 
 ## 👯 Communities
 - Co-organizer at [Laravel Cameroun](https://laravel.cm) (A PHP & Laravel Community)
-- Lead Web Developement at [10000 Codeurs(https://10000codeurs.com/)
+- Lead Web Developement at [10000 Codeurs](https://10000codeurs.com/)
+- Speaking about JAMStack, Android Development and Mobile Payment at [GDG Douala - Cameroon](https://devfest.gdgdouala.com/)
+
 
 ## ⚡ Technologies
 Talk to me about
