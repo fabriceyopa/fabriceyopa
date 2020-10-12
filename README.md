@@ -1,3 +1,9 @@
+<p>
+  <a href="https://twitter.com/yopafabrice">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yopafabrice?style=for-the-badge">
+  </a>
+</p>
+
 # Fabrice YOPA 😃
 Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [Laravel Cameroon](https://laravel.cm) | Embracing Technology | Entrepreneer
 
