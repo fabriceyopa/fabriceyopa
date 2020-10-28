@@ -26,7 +26,7 @@ Talk to me about
 - Backend development using **Java, PHP, Express**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 - Robust full-stack system design implementation
-- Creating scalable cloud architecture using **Amazon AWS, Google Cloud Platform, **
+- Creating scalable cloud architecture using **Amazon AWS, Google Cloud Platform, Pivotal Cloud Foundry, Digital Ocean**
 - Project Management & Scrum Team Master and CD/CI using **AWS Codebuild**
 
 ## 📫 Contact Me
