@@ -3,7 +3,6 @@
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yopafabrice?style=for-the-badge">
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=fabriceyopa)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Fabrice YOPA 😃
 
