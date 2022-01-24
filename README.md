@@ -2,6 +2,7 @@
   <a href="https://twitter.com/yopafabrice">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yopafabrice?style=for-the-badge">
   </a>
+  ![](https://hit.yhype.me/github/profile?user_id=4902424)
 </p>
 
 # Fabrice YOPA 😃
