@@ -2,6 +2,8 @@
   <a href="https://twitter.com/yopafabrice">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yopafabrice?style=for-the-badge">
   </a>
+  ![](https://komarev.com/ghpvc/?username=fabriceyopa&color=green)
+
 </p>
 
 # Fabrice YOPA 😃
