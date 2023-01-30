@@ -15,7 +15,7 @@ I love technology and best practices. Github is my favourite place, it keeps me 
 
 ## Companies
 
-- Co-Founder & CTO of [IS Dev Experts](https://isdevexperts.com) (a web agency dealing with data analysing, software development~~~~)
+- Co-Founder & CTO of [IS Dev Experts](https://isdevexperts.com) (a web agency dealing with data analysing, software development)
 - Co-Founder of HelloCare of [HelloCare](https://hellocare.org) (a web medicine platform)
 
 ## 👯 Communities
