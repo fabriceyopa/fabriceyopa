@@ -26,15 +26,17 @@ I love technology and best practices. Github is my favourite place, it keeps me 
 
 Talk to me about
 
-- Front-end development using **React, VanillaJS**
 - Backend development using **Java, PHP, Node JS(Express)**
+- Front-end development using **React, VanillaJS**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 - Robust full-stack system design implementation
-- Creating scalable cloud architecture using **Amazon AWS, Google Cloud Platform, Pivotal Cloud Foundry, Digital Ocean**
-- Project Management & Scrum Team Master and CD/CI using **AWS Codebuild**
+- Creating scalable cloud architecture using **AWS, Google Cloud Platform, Pivotal Cloud Foundry, Digital Ocean**
+- Project Management & Scrum Team Master and CD/CI using **AWS Codebuildm Github Actions**
 
 **Languages and Tools:**
 
+<code><img height="20" src="
+https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -50,5 +52,3 @@ Talk to me about
 
 - Twitter - [@yopafabrice](https://twitter.com/yopafabrice)
 - LinkedIn - [Fabrice YOPA](https://www.linkedin.com/in/fabriceyopa/)
-
-![](https://hit.yhype.me/github/profile?user_id=4902424)
