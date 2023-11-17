@@ -5,22 +5,22 @@ src="https://img.shields.io/github/followers/fabriceyopa?logo=github&style=for-t
 
 # Fabrice YOPA 😃
 
-Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [Laravel Cameroon](https://laravel.cm) | Embracing Technology | Entrepreneer
+Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [Laravel Cameroon](https://laravel.cm) | Embracing Technology | Entrepreneur
 
 ## 🧐 About
 
-I love technology and best practices. Github is my favourite place, it keeps me up to date with what's going on in the world.
+I love technology and best practices. Github is my favorite place, it keeps me up to date with what's going on in the world.
 
 ## Companies
 
-- Co-Founder & CTO of [IS Dev Experts](https://isdevexperts.com) (a web agency dealing with data analysing, software development)
+- Co-Founder & CTO of [IS Dev Experts](https://isdevexperts.com) (a web agency dealing with data analyzing, software development)
 - Co-Founder of HelloCare of [HelloCare](https://hellocare.org) (a web medicine platform)
 
 ## 👯 Communities
 
 - Co-organizer at [Laravel Cameroun](https://laravel.cm) (A PHP & Laravel Community)
-- Lead Web Developement at [10000 Codeurs](https://10000codeurs.com/)
-- Speaking about JAMStack, Android Development and Mobile Payment at [GDG Douala - Cameroon](https://devfest.gdgdouala.com/)
+- Lead Web Development at [10000 Codeurs](https://10000codeurs.com/)
+- Speaking about JAMStack, Android Development, and Mobile Payment at [GDG Douala - Cameroon](https://devfest.gdgdouala.com/)
 
 ## ⚡ Technologies
 
@@ -31,7 +31,7 @@ Talk to me about
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 - Robust full-stack system design implementation
 - Creating scalable cloud architecture using **AWS, Google Cloud Platform, Pivotal Cloud Foundry, Digital Ocean**
-- Project Management & Scrum Team Master and CD/CI using **AWS Codebuildm Github Actions**
+- Project Management & Scrum Team Master and CD/CI using **AWS Codebuild Github Actions**
 
 **Languages and Tools:**
 
